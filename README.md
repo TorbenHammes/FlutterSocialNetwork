@@ -8,6 +8,7 @@ A flutter project developed to simulate a social network.
 - Open VSCode
 - Go to File > Open folder...
 - Select the repository folder
+- Wait to load
 - Run
 
 ## Dependencies
