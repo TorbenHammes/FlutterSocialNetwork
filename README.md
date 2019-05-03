@@ -1,15 +1,30 @@
 # FlutterSocialNetwork
-
 A flutter project developed to simulate a social network.
 
 ## Getting Started
-
 - Clone repository
 - Open VSCode
 - Go to File > Open folder...
 - Select the repository folder
 - Wait to load
 - Run
+
+## Features
+- Login screen
+- Posts page
+- Search page
+- Public chat page
+- Private chat page (not implemented)
+- Profile page
+- Make post page
+- News page
+- Shop page (not implemented)
+- Configurations page (not implemented)
+- Take photo from native camera
+- Record video from native camera
+- Pick photo from native gallery
+- Pick video from native gallery
+- Crop photos before post
 
 ## Dependencies
 ```
