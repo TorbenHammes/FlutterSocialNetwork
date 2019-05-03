@@ -11,7 +11,6 @@ A flutter project developed to simulate a social network.
 - Run
 
 ## Dependencies
-
 ```circular_profile_avatar: ^0.1.6 
   uuid: 1.0.3
   image: 2.0.4
