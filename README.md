@@ -1,16 +1,29 @@
-# social_network
+# FlutterSocialNetwork
 
-A new Flutter project.
+A flutter project developed to simulate a social network.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone repository
+- Open VSCode
+- Go to File > Open folder...
+- Select the repository folder
+- Run
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```circular_profile_avatar: ^0.1.6 
+  uuid: 1.0.3
+  image: 2.0.4
+  image_cropper: 1.0.0
+  image_picker: 0.4.12
+  path_provider: 0.4.1
+  font_awesome_flutter: 8.0.1
+  async: "^2.0.4"
+  http: "^0.12.0"
+  shared_preferences: "^0.4.1"
+  cached_network_image: "^0.5.0"
+  shimmer: ^1.0.0
+  location: ^1.4.1
+  geocoder: ^0.1.1
+  circle_wave_progress: 0.0.4```
