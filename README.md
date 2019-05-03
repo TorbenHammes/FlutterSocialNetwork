@@ -24,7 +24,7 @@ A flutter project developed to simulate a social network.
 - Record video from native camera
 - Pick photo from native gallery
 - Pick video from native gallery
-- Crop photos before post
+- Crop photos
 
 ## Dependencies
 ```
