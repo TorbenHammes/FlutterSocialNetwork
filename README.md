@@ -11,18 +11,20 @@ A flutter project developed to simulate a social network.
 - Run
 
 ## Dependencies
-```circular_profile_avatar: ^0.1.6 
-  uuid: 1.0.3
-  image: 2.0.4
-  image_cropper: 1.0.0
-  image_picker: 0.4.12
-  path_provider: 0.4.1
-  font_awesome_flutter: 8.0.1
-  async: "^2.0.4"
-  http: "^0.12.0"
-  shared_preferences: "^0.4.1"
-  cached_network_image: "^0.5.0"
-  shimmer: ^1.0.0
-  location: ^1.4.1
-  geocoder: ^0.1.1
-  circle_wave_progress: 0.0.4```
+```
+circular_profile_avatar: ^0.1.6 
+uuid: 1.0.3
+image: 2.0.4
+image_cropper: 1.0.0
+image_picker: 0.4.12
+path_provider: 0.4.1
+font_awesome_flutter: 8.0.1
+async: "^2.0.4"
+http: "^0.12.0"
+shared_preferences: "^0.4.1"
+cached_network_image: "^0.5.0"
+shimmer: ^1.0.0
+location: ^1.4.1
+geocoder: ^0.1.1
+circle_wave_progress: 0.0.4
+```
